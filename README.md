@@ -4,6 +4,8 @@ A public, reusable skill for building a live **Agent Command Center**: a 3D
 office dashboard where you watch your AI agents' real status and dispatch
 real work to them.
 
+⭐ Also listed free on Agensi.io: https://www.agensi.io/skills/agent-command-center — star the repo if you use it.
+
 ## What it is
 
 Open the board and you see a small 3D office. Each of your AI agents has a
